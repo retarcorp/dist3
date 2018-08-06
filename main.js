@@ -3,4 +3,10 @@ window.onload = function(){
 	setInterval(function(){
 		document.getElementById("counter").innerText ++;
 	}, delay);
+
+	const btn = document.getElementById('btn');
+
+	btn.addEventListener('click', (e) => {
+		alert('alert');
+	});
 }
