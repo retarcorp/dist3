@@ -19,3 +19,7 @@ h1 {
 body{
 	background: #efefef;
 }
+
+.text-center {
+	text-align: center
+}
