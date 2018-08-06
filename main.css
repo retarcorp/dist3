@@ -1,0 +1,21 @@
+html {
+	font-size: 67.5%;
+	font-family: sans-serif;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+#counter{
+	text-align: center;
+	color: green;
+	margin: 20px 0;
+	font-size: 1.9rem;
+}
+h1 {
+	color: blue;
+}
+body{
+	background: #efefef;
+}
